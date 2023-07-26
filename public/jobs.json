@@ -1,0 +1,104 @@
+[
+  {
+    "company_logo": "https://blog.hubspot.com/hubfs/image8-2.jpg",
+    "job_title": "Software Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "remote",
+    "location": "Anywhere",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$100,000 - $120,000",
+    "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface",
+    "job_responsibility": "- Design, develop, and maintain software applications.\n- Collaborate with other members of the engineering team to build scalable and reliable systems.\n- Write clean, efficient, and well-documented code.\n- Stay up-to-date on industry trends and emerging technologies.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3+ years of experience in software engineering.",
+    "contact_information": {
+      "phone": "555-1234",
+      "email": "jobs@example.com"
+    }
+  },
+  {
+    "company_logo": "https://cdn.vox-cdn.com/thumbor/sW5h16et1R3au8ZLVjkcAbcXNi8=/0x0:3151x2048/2000x1333/filters:focal(1575x1024:1576x1025)/cdn.vox-cdn.com/uploads/chorus_asset/file/15844974/netflixlogo.0.0.1466448626.png",
+    "job_title": "Marketing Manager",
+    "company_name": "Netflix",
+    "remote_or_onsite": "onsite",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$90,000 - $110,000",
+    "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface",
+    "job_responsibility": "- Develop and execute marketing campaigns.\n- Analyze market trends and customer data to inform marketing decisions.\n- Manage marketing budgets and ROI.\n- Collaborate with stakeholders across the company to ensure consistent branding.\n- Stay up-to-date on marketing trends and emerging technologies.",
+    "educational_requirements": "Bachelor's degree in Marketing or related field.",
+    "experiences": "5+ years of experience in marketing.",
+    "contact_information": {
+      "phone": "555-5678",
+      "email": "hr@example.com"
+    }
+  },
+  {
+    "company_logo": "https://1000logos.net/wp-content/uploads/2018/02/Logo-Tesla.jpg",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "onsite",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$90,000 - $110,000",
+    "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface",
+    "job_responsibility": "- Develop and execute marketing campaigns.\n- Analyze market trends and customer data to inform marketing decisions.\n- Manage marketing budgets and ROI.\n- Collaborate with stakeholders across the company to ensure consistent branding.\n- Stay up-to-date on marketing trends and emerging technologies.",
+    "educational_requirements": "Bachelor's degree in Marketing or related field.",
+    "experiences": "5+ years of experience in marketing.",
+    "contact_information": {
+      "phone": "555-5678",
+      "email": "hr@example.com"
+    }
+  },
+  {
+    "company_logo": "https://wallpaperaccess.com/full/1124999.jpg",
+    "job_title": "Senior Product Designer",
+    "company_name": "Bmw",
+    "remote_or_onsite": "remote",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$90,000 - $110,000",
+    "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface",
+    "job_responsibility": "- Develop and execute marketing campaigns.\n- Analyze market trends and customer data to inform marketing decisions.\n- Manage marketing budgets and ROI.\n- Collaborate with stakeholders across the company to ensure consistent branding.\n- Stay up-to-date on marketing trends and emerging technologies.",
+    "educational_requirements": "Bachelor's degree in Marketing or related field.",
+    "experiences": "5+ years of experience in marketing.",
+    "contact_information": {
+      "phone": "555-5678",
+      "email": "hr@example.com"
+    }
+  },
+  {
+    "company_logo": "https://www.e-startupindia.com/learn/wp-content/uploads/2022/04/Logo-Design-for-Youtube-Channel-in-India.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Youtube",
+    "remote_or_onsite": "remote",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$90,000 - $110,000",
+    "job_description": "We're seeking a talented marketing manager to help us promote our products and services.",
+    "job_responsibility": "- Develop and execute marketing campaigns.\n- Analyze market trends and customer data to inform marketing decisions.\n- Manage marketing budgets and ROI.\n- Collaborate with stakeholders across the company to ensure consistent branding.\n- Stay up-to-date on marketing trends and emerging technologies.",
+    "educational_requirements": "Bachelor's degree in Marketing or related field.",
+    "experiences": "5+ years of experience in marketing.",
+    "contact_information": {
+      "phone": "555-5678",
+      "email": "hr@example.com"
+    }
+  },
+  {
+    "company_logo": "https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/6304a2578abd315b18c8f6e9_twitter-logo.png",
+    "job_title": "junior developer",
+    "company_name": "Example Company 6",
+    "remote_or_onsite": "onsite",
+    "location": "New York, NY",
+    "fulltime_or_parttime": "Full-time",
+    "salary": "$90,000 - $110,000",
+    "job_description": "We're seeking a talented marketing manager to help us promote our products and services.",
+    "job_responsibility": "- Develop and execute marketing campaigns.Analyze market trends and customer data to inform marketing decisions.Manage marketing budgets and ROI.Collaborate with stakeholders across the company to ensure consistent branding.Stay up-to-date on marketing trends and emerging technologies.",
+    "educational_requirements": "Bachelor's degree in Marketing or related field.",
+    "experiences": "5+ years of experience in marketing.",
+    "contact_information": {
+      "phone": "555-5678",
+      "email": "hr@example.com"
+    }
+  }
+]

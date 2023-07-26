@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+
+[
+  {
+    "name": "Technology",
+    "availableJobs": 8,
+    "icon": "https://i.ibb.co/vd60s6H/technology-pc-computer-microchip-processor-chipset-svgrepo-com.png"
+  },
+  {
+    "name": "Accounting & Finance",
+    "availableJobs": 12,
+    "icon": "https://i.ibb.co/gg2TpRk/finance-markting-money-coin-dollar-molecule-svgrepo-com.png"
+  },
+  {
+    "name": "Healthcare",
+    "availableJobs": 5,
+    "icon": "https://i.ibb.co/6HK1NnS/doctor-bag-svgrepo-com.png"
+  },
+  {
+    "name": "Marketing & Sales",
+    "availableJobs": 6,
+    "icon": "https://i.ibb.co/MV1kyyt/marketing-hand-give-bar-chart-statistic-svgrepo-com.png"
+  },
+  {
+    "name": "Design Jobs",
+    "availableJobs": 3,
+    "icon": "https://i.ibb.co/DkxYK5m/design-svgrepo-com.png"
+  },
+  {
+    "name": "Transportation",
+    "availableJobs": 2,
+    "icon": "https://i.ibb.co/f20Zdwk/transport-svgrepo-com.png"
+  },
+  {
+    "name": "Development",
+    "availableJobs": 7,
+    "icon": "https://i.ibb.co/fdZpxsT/development-svgrepo-com.png"
+  },
+  {
+    "name": "Non-Profit Organization",
+    "availableJobs": 4,
+    "icon": "https://i.ibb.co/DYs6JfM/profit-svgrepo-com.png"
+  },
+  {
+    "name": "Architect Jobs",
+    "availableJobs": 1,
+    "icon": "https://i.ibb.co/fdZpxsT/development-svgrepo-com.png"
+  }
+]
